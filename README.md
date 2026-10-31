@@ -38,28 +38,7 @@ DescomposicionLU/
 
 ---
 
-## 🚀 Cómo Ejecutar la Aplicación
 
-### Opción 1: Desde la Terminal (CLI)
-Para compilar y ejecutar directamente la aplicación:
-```powershell
-cd C:\Users\ultra\.gemini\antigravity\scratch\DescomposicionLU
-dotnet run --project DescomposicionLU.WinForms\DescomposicionLU.WinForms.csproj
-```
-
-Para ejecutar los auto-tests matemáticos en consola:
-```powershell
-dotnet run --project DescomposicionLU.WinForms\DescomposicionLU.WinForms.csproj -- --test
-```
-
-### Opción 2: Desde Visual Studio 2022
-1. Abre **Visual Studio 2022** (versión 17.10 o superior para `.slnx`).
-2. Abre el archivo:
-   `C:\Users\ultra\.gemini\antigravity\scratch\DescomposicionLU\DescomposicionLU.slnx`
-   *(Si usas una versión anterior, puedes abrir `DescomposicionLU.sln`)*.
-3. Presiona **F5** o haz clic en **Iniciar / Run**.
-
----
 
 ## 📊 Ejemplo de Verificación
 
